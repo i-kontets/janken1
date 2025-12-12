@@ -6,6 +6,11 @@ $games = [
         'link' => './janken.php',
         'description' => 'コンピュータと対戦するじゃんけんゲームです。'
     ],
+    [
+        'name' => 'マンカラ',
+        'link' => './mancala.php',
+        'description' => 'マンカラです。'
+    ]
     // 今後ゲームを追加する際はここに追加できます
     // [
     //     'name' => '新しいゲーム',
